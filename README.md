@@ -1,5 +1,5 @@
 # 🚨​ About Me:
-🔭 I’m currently working on a C++ code that allows TikTok reposts to be deleted.<br>🌱 I’m learning LUA,C++ and Python<br>
+🔭 I’m currently working on a C++ code that allows TikTok reposts to be deleted.<br>🌱 I’m learning LUA,C++ and Python.<br>
 
 
 # 💻 Tech Stack:
