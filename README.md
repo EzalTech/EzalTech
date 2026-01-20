@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 🚨​ About Me:
+🔭 I’m currently working on a C++ code that allows TikTok reposts to be deleted.<br>🌱 I’m currently learning LUA,C++ and Python <br>
 
 
 # 💻 Tech Stack:
