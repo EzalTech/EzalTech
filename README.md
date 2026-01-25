@@ -1,5 +1,5 @@
 # 🚨​ About Me:
-🔭 I’m currently working on Python code that allows for the automatic deletion of TikTok reposts.<br>🌱 I’m learning LUA,C++ and Python.<br>
+🔭 I’m currently working on a Python code that allows for the automatic deletion of TikTok reposts.<br>🌱 I’m learning LUA,C++ and Python.<br>
 
 
 # 💻 Tech Stack:
