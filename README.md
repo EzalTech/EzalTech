@@ -1,5 +1,5 @@
 # 🚨​ About Me:
-🌱 I’m learning LUA,C++ and Python.<br>
+I’m learning LUA,C++ and Python. I like both hardware and software<br>
 
 
 # 💻 Tech Stack:
