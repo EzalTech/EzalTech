@@ -1,6 +1,6 @@
 # About Me
 
-I spend my time between hardware and software. I'm currently learning and writing code in C, C++, Python, and Lua.
+I spend my time between hardware and software. I'm currently learning some basic languages.
 
 # Stack
 
