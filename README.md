@@ -1,4 +1,4 @@
-## ❯ about_me
+## ezaltech@fedora ❯ about_me
 
 > I spend my time between hardware and software. 
 > I'm currently learning C, C++, Python, and Lua.
